@@ -79,8 +79,9 @@ ul li::before {
 
 /* LAYOUT */
 .wrapper {
-  max-width: 920px;
+  max-width: 950px;
   margin: 2em auto;
+  padding: 0 30px;
 }
 
 section {
